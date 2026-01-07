@@ -1,0 +1,116 @@
+san | C:\\Program Files\JetBrains\PyCharm 2025.3\jbr\legal\java.xml.crypto\santuario.md
+san | C:\\Program Files\JetBrains\PyCharm 2025.3\plugins\python-ce\helpers\typeshed\stubs\Markdown\markdown\extensions\sane_lists.pyi
+san | C:\\Program Files\JetBrains\PyCharm 2025.3\plugins\python-ce\helpers\typeshed\stubs\bleach\bleach\sanitizer.pyi
+san | C:\\Program Files\JetBrains\PyCharm 2025.3\plugins\python-ce\helpers\typeshed\stubs\html5lib\html5lib\filters\sanitizer.pyi
+san | C:\\Program Files\PostgreSQL\18\pgAdmin 4\python\Lib\site-packages\engineio\async_drivers\sanic.py
+san | C:\\Program Files\PostgreSQL\18\pgAdmin 4\python\Lib\site-packages\flask\sansio
+san | C:\\Program Files\PostgreSQL\18\pgAdmin 4\python\Lib\site-packages\jinja2\sandbox.py
+san | C:\\Program Files\PostgreSQL\18\pgAdmin 4\python\Lib\site-packages\werkzeug\sansio
+san | C:\\Program Files\cursor\resources\app\node_modules\tar-stream\sandbox.js
+san | C:\\Program Files\cursor\resources\app\out\vs\base\parts\sandbox
+san | C:\\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\include\sanitizer
+san | C:\\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\lib\x64\sancov.lib
+san | C:\\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\lib\x64\sancovd.lib
+san | C:\\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\lib\x86\onecore\sancov.lib
+san | C:\\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\lib\x86\onecore\sancovd.lib
+san | C:\\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\lib\x86\sancov.lib
+san | C:\\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\lib\x86\sancovd.lib
+san | C:\\ProgramData\Microsoft\User Account Pictures\san.dat
+san | C:\\Users\san
+san | C:\\Users\san\.cursor\extensions\anysphere.cursorpyright-1.0.10\dist\typeshed-fallback\stubs\Markdown\markdown\extensions\sane_lists.pyi
+san | C:\\Users\san\.cursor\extensions\anysphere.cursorpyright-1.0.10\dist\typeshed-fallback\stubs\bleach\bleach\sanitizer.pyi
+san | C:\\Users\san\.cursor\extensions\anysphere.cursorpyright-1.0.10\dist\typeshed-fallback\stubs\html5lib\html5lib\filters\sanitizer.pyi
+san | C:\\Users\san\.cursor\extensions\ms-python.python-2025.6.1-win32-x64\python_files\lib\jedilsp\jedi\third_party\typeshed\third_party\2and3\bleach\sanitizer.pyi
+san | C:\\Users\san\.cursor\extensions\ms-python.python-2025.6.1-win32-x64\python_files\lib\jedilsp\jedi\third_party\typeshed\third_party\2and3\jinja2\sandbox.pyi
+san | C:\\Users\san\.cursor\extensions\ms-python.python-2025.6.1-win32-x64\python_files\lib\jedilsp\jedi\third_party\typeshed\third_party\2and3\markdown\extensions\sane_lists.pyi
+san | C:\\Users\san\.vscode\extensions\ms-python.python-2025.20.1-win32-x64\python_files\lib\jedilsp\jedi\third_party\typeshed\third_party\2and3\bleach\sanitizer.pyi
+san | C:\\Users\san\.vscode\extensions\ms-python.python-2025.20.1-win32-x64\python_files\lib\jedilsp\jedi\third_party\typeshed\third_party\2and3\jinja2\sandbox.pyi
+san | C:\\Users\san\.vscode\extensions\ms-python.python-2025.20.1-win32-x64\python_files\lib\jedilsp\jedi\third_party\typeshed\third_party\2and3\markdown\extensions\sane_lists.pyi
+san | C:\\Users\san\.vscode\extensions\ms-python.vscode-pylance-2025.10.4\dist\bundled\stubs\matplotlib\sankey.pyi
+san | C:\\Users\san\.vscode\extensions\ms-python.vscode-pylance-2025.10.4\dist\typeshed-fallback\stubs\Markdown\markdown\extensions\sane_lists.pyi
+san | C:\\Users\san\.vscode\extensions\ms-python.vscode-pylance-2025.10.4\dist\typeshed-fallback\stubs\bleach\bleach\sanitizer.pyi
+san | C:\\Users\san\.vscode\extensions\ms-python.vscode-pylance-2025.10.4\dist\typeshed-fallback\stubs\html5lib\html5lib\filters\sanitizer.pyi
+san | C:\\Users\san\AppData\Local\Microsoft\OneAuth\blobs\sanzhar.sagatov@bk.ru_identity_provider
+san | C:\\Users\san\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\base\parts\sandbox
+san | C:\\Users\san\AppData\Roaming\Microsoft\Windows\Recent\san.lnk
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\bleach\__pycache__\sanitizer.cpython-314.pyc
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\bleach\_vendor\html5lib\filters\__pycache__\sanitizer.cpython-314.pyc
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\bleach\_vendor\html5lib\filters\sanitizer.py
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\bleach\sanitizer.py
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\bleach\sanitizer.pyi
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\jinja2\sandbox.pyi
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\markdown\extensions\sane_lists.pyi
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\jinja2\__pycache__\sandbox.cpython-314.pyc
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\jinja2\sandbox.py
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\jupyterlab\schemas\@jupyterlab\apputils-extension\sanitizer.json
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\matplotlib\__pycache__\sankey.cpython-314.pyc
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\matplotlib\sankey.py
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\matplotlib\sankey.pyi
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\nbconvert\preprocessors\__pycache__\sanitize.cpython-314.pyc
+san | C:\\Users\san\PyCharmMiscProject\.venv\Lib\site-packages\nbconvert\preprocessors\sanitize.py
+san | C:\\Users\san\PyCharmMiscProject\.venv\share\jupyter\lab\schemas\@jupyterlab\apputils-extension\sanitizer.json
+san | C:\\Users\san\VirtualBox VMs\sanjar
+san | C:\\Users\san\VirtualBox VMs\sanjar\sanjar.nvram
+san | C:\\Users\san\VirtualBox VMs\sanjar\sanjar.vbox
+san | C:\\Users\san\VirtualBox VMs\sanjar\sanjar.vbox-prev
+san | C:\\Users\san\VirtualBox VMs\sanjar\sanjar.vdi
+san | C:\\Users\san\anaconda3\Lib\site-packages\bleach\__pycache__\sanitizer.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\bleach\sanitizer.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\flask\sansio
+san | C:\\Users\san\anaconda3\Lib\site-packages\holoviews\element\__pycache__\sankey.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\holoviews\element\sankey.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\holoviews\plotting\bokeh\__pycache__\sankey.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\holoviews\plotting\bokeh\sankey.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\holoviews\plotting\mpl\__pycache__\sankey.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\holoviews\plotting\mpl\sankey.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\html5lib\filters\__pycache__\sanitizer.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\html5lib\filters\sanitizer.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\bleach\sanitizer.pyi
+san | C:\\Users\san\anaconda3\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\jinja2\sandbox.pyi
+san | C:\\Users\san\anaconda3\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\markdown\extensions\sane_lists.pyi
+san | C:\\Users\san\anaconda3\Lib\site-packages\jinja2\__pycache__\sandbox.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\jinja2\sandbox.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\jupyterlab\schemas\@jupyterlab\apputils-extension\sanitizer.json
+san | C:\\Users\san\anaconda3\Lib\site-packages\markdown\extensions\__pycache__\sane_lists.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\markdown\extensions\sane_lists.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\matplotlib\__pycache__\sankey.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\matplotlib\__pycache__\sankey.cpython-314.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\matplotlib\sankey.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\matplotlib\sankey.pyi
+san | C:\\Users\san\anaconda3\Lib\site-packages\nbconvert\preprocessors\__pycache__\sanitize.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\nbconvert\preprocessors\sanitize.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\plotly\graph_objs\sankey
+san | C:\\Users\san\anaconda3\Lib\site-packages\sentry_sdk\integrations\__pycache__\sanic.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\sentry_sdk\integrations\sanic.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\statsmodels\sandbox
+san | C:\\Users\san\anaconda3\Lib\site-packages\statsmodels\sandbox\panel\__pycache__\sandwich_covariance_generic.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\statsmodels\sandbox\panel\sandwich_covariance_generic.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\statsmodels\stats\__pycache__\sandwich_covariance.cpython-313.pyc
+san | C:\\Users\san\anaconda3\Lib\site-packages\statsmodels\stats\sandwich_covariance.py
+san | C:\\Users\san\anaconda3\Lib\site-packages\streamlit\static\static\js\sandbox.ClO3IuUr.js
+san | C:\\Users\san\anaconda3\Lib\site-packages\sympy\sandbox
+san | C:\\Users\san\anaconda3\Lib\site-packages\toolz\sandbox
+san | C:\\Users\san\anaconda3\Lib\site-packages\werkzeug\sansio
+san | C:\\Users\san\anaconda3\Library\mkspecs\common\sanitize.conf
+san | C:\\Users\san\anaconda3\Library\mkspecs\features\sanitizer.prf
+san | C:\\Users\san\anaconda3\pkgs\bleach-6.3.0-py313haa95532_0\Lib\site-packages\bleach\__pycache__\sanitizer.cpython-313.pyc
+san | C:\\Users\san\anaconda3\pkgs\bleach-6.3.0-py313haa95532_0\Lib\site-packages\bleach\sanitizer.py
+san | C:\\Users\san\anaconda3\pkgs\chardet-5.2.0-py313haa95532_0\info\test\tests\Big5\sanwenji.blogspot.com.xml
+san | C:\\Users\san\anaconda3\pkgs\flask-3.1.2-py313haa95532_0\Lib\site-packages\flask\sansio
+san | C:\\Users\san\anaconda3\pkgs\holoviews-1.22.0-py313haa95532_0\Lib\site-packages\holoviews\element\__pycache__\sankey.cpython-313.pyc
+san | C:\\Users\san\anaconda3\pkgs\holoviews-1.22.0-py313haa95532_0\Lib\site-packages\holoviews\element\sankey.py
+san | C:\\Users\san\anaconda3\pkgs\holoviews-1.22.0-py313haa95532_0\Lib\site-packages\holoviews\plotting\bokeh\__pycache__\sankey.cpython-313.pyc
+san | C:\\Users\san\anaconda3\pkgs\holoviews-1.22.0-py313haa95532_0\Lib\site-packages\holoviews\plotting\bokeh\sankey.py
+san | C:\\Users\san\anaconda3\pkgs\holoviews-1.22.0-py313haa95532_0\Lib\site-packages\holoviews\plotting\mpl\__pycache__\sankey.cpython-313.pyc
+san | C:\\Users\san\anaconda3\pkgs\holoviews-1.22.0-py313haa95532_0\Lib\site-packages\holoviews\plotting\mpl\sankey.py
+san | C:\\Users\san\anaconda3\pkgs\html5lib-1.1-pyhd3eb1b0_0\site-packages\html5lib\filters\sanitizer.py
+san | C:\\Users\san\anaconda3\pkgs\jedi-0.19.2-py313haa95532_0\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\bleach\sanitizer.pyi
+san | C:\\Users\san\anaconda3\pkgs\jedi-0.19.2-py313haa95532_0\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\jinja2\sandbox.pyi
+san | C:\\Users\san\anaconda3\pkgs\jedi-0.19.2-py313haa95532_0\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\markdown\extensions\sane_lists.pyi
+san | C:\\Users\san\anaconda3\pkgs\jinja2-3.1.6-py313haa95532_0\Lib\site-packages\jinja2\__pycache__\sandbox.cpython-313.pyc
+san | C:\\Users\san\anaconda3\pkgs\jinja2-3.1.6-py313haa95532_0\Lib\site-packages\jinja2\sandbox.py
+san | C:\\Users\san\anaconda3\pkgs\jupyterlab-4.4.7-py313haa95532_0\Lib\site-packages\jupyterlab\schemas\@jupyterlab\apputils-extension\sanitizer.json
+san | C:\\Users\san\anaconda3\pkgs\jupyterlab-4.4.7-py313haa95532_0\share\jupyter\lab\schemas\@jupyterlab\apputils-extension\sanitizer.json
+san | C:\\Users\san\anaconda3\pkgs\markdown-3.8-py313haa95532_0\Lib\site-packages\markdown\extensions\__pycache__\sane_lists.cpython-313.pyc
+san | C:\\Users\san\anaconda3\pkgs\markdown-3.8-py313haa95532_0\Lib\site-packages\markdown\extensions\sane_lists.py
+san | C:\\Users\san\anaconda3\pkgs\matplotlib-base-3.10.6-py313h26e45b9_1\Lib\site-packages\matplotlib\__pycache__\san
